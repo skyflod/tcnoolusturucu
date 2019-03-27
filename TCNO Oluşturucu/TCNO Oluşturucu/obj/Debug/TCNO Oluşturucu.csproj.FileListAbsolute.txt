@@ -1,0 +1,9 @@
+c:\users\göksel sina\documents\visual studio 2013\Projects\TCNO Oluşturucu\TCNO Oluşturucu\bin\Debug\TCNO Oluşturucu.exe.config
+c:\users\göksel sina\documents\visual studio 2013\Projects\TCNO Oluşturucu\TCNO Oluşturucu\obj\Debug\TCNO Oluşturucu.csprojResolveAssemblyReference.cache
+c:\users\göksel sina\documents\visual studio 2013\Projects\TCNO Oluşturucu\TCNO Oluşturucu\obj\Debug\TCNO_Oluşturucu.Form1.resources
+c:\users\göksel sina\documents\visual studio 2013\Projects\TCNO Oluşturucu\TCNO Oluşturucu\obj\Debug\TCNO_Oluşturucu.Properties.Resources.resources
+c:\users\göksel sina\documents\visual studio 2013\Projects\TCNO Oluşturucu\TCNO Oluşturucu\obj\Debug\TCNO Oluşturucu.csproj.GenerateResource.Cache
+c:\users\göksel sina\documents\visual studio 2013\Projects\TCNO Oluşturucu\TCNO Oluşturucu\bin\Debug\TCNO Oluşturucu.exe
+c:\users\göksel sina\documents\visual studio 2013\Projects\TCNO Oluşturucu\TCNO Oluşturucu\bin\Debug\TCNO Oluşturucu.pdb
+c:\users\göksel sina\documents\visual studio 2013\Projects\TCNO Oluşturucu\TCNO Oluşturucu\obj\Debug\TCNO Oluşturucu.exe
+c:\users\göksel sina\documents\visual studio 2013\Projects\TCNO Oluşturucu\TCNO Oluşturucu\obj\Debug\TCNO Oluşturucu.pdb
